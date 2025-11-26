@@ -1,6 +1,6 @@
-# Análise de Grade Curricular: Ciência de Dados e Carreiras em Alta (2025)
+# Análise de Grade Curricular: Ciência de Dados e Machine Learning (CEUB) e Carreiras em Alta (2025)
 
-A grade curricular do curso de Ciência de Dados contempla de forma significativa o conteúdo e as habilidades necessárias para as carreiras mencionadas na pesquisa. A estrutura do curso oferece disciplinas que cobrem as áreas técnicas e conceituais essenciais para cada uma das cinco profissões de Ciência de Dados em alta para 2025, conforme o estudo.
+A grade curricular do curso de Ciência de Dados e Machine Learning (CEUB) contempla de forma significativa o conteúdo e as habilidades necessárias para as carreiras mencionadas na pesquisa. A estrutura do curso oferece disciplinas que cobrem as áreas técnicas e conceituais essenciais para cada uma das cinco profissões de Ciência de Dados em alta para 2025, conforme o estudo.
 
 ---
 
